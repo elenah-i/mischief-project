@@ -1,0 +1,11 @@
+[build]
+  base = "frontend"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Every route in this app is client-side state, not client-side routing -
+# there's only ever one real page (index.html), so no SPA fallback rules
+# are needed here.
