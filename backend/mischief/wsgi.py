@@ -1,3 +1,4 @@
+print('!!!! WSGI FILE VERSION CHECK 12345 IS RUNNING !!!!', flush=True)
 """
 WSGI config for mischief project.
 
