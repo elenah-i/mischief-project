@@ -118,14 +118,14 @@ const DONKEY_POPUPS = {
     followUp: 'Donkey #3 is disappointed.',
   },
   heart: {
-    img: '/donkeys/donkey-1.jpeg',
+    img: '/donkeys/donkey-1.jpg',
     title: '🫏 STILL WATCHING.',
     sub: 'The donkeys have reviewed your color choice.',
     followUp: 'Consensus: mixed.',
   },
 };
 
-const FINAL_DONKEY_IMG = '/donkeys/donkey-3.jpeg';
+const FINAL_DONKEY_IMG = '/donkeys/donkey-3.jpg';
 
 /* ---------------------------------------------------------------
    HELPERS
